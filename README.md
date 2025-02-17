@@ -5,11 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riteshhvishwakarma" alt="riteshhvishwakarma" /></a> </p>
 
-- 🔭 I’m currently working on Django **Exam Portal**
-
-- 🌱 I’m currently learning **Python, Django**
-
-- 💬 Ask me about **Python, java, Django, Html, css,JavaScript, Bootstrap, Tailwind**
+- 💬 Ask me about **Python, java, Django, Html, css,JavaScript, Bootstrap, Tailwind, Sql, Postgres**
 
 - 📫 How to reach me **raajsharma8896@gmail.com, +917565025005**
 
