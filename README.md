@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riteshhvishwakarma&label=Profile%20views&color=0e75b6&style=flat" alt="riteshhvishwakarma" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riteshhvishwakarma" alt="riteshhvishwakarma" /></a> </p>
-<p align="left"> <a href="https://coffee-and-code-1.onrender.com/">Health & Fitness Tracker Hosted Project</a> </p>
 
+<p align="left"> <a href="https://coffee-and-code-1.onrender.com/">- 💻Health & Fitness Tracker Hosted Project</a> </p>
 - 💬 Ask me about **Python, java, Django, Html, css,JavaScript, Bootstrap, Tailwind, Sql, Postgres**
 
 - 📫 How to reach me **raajsharma8896@gmail.com, +917565025005**
